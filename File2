@@ -1,2 +1,3 @@
 ./qload -m PIBSDM1 -I Queue -o Queueremote
 ./
+./qload -m PIIBSDM2 -I Queue
